@@ -1,0 +1,5 @@
+setup.py
+xmem.egg-info/PKG-INFO
+xmem.egg-info/SOURCES.txt
+xmem.egg-info/dependency_links.txt
+xmem.egg-info/top_level.txt
